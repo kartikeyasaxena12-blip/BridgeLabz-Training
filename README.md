@@ -1,110 +1,62 @@
-# 🚀 BridgeLabz-Training
+ 🚀 BridgeLabz Training Progress Report
 
 
+ 🗓️ Timeline & Learning Summary
 
+ 📅 17 December 2025
+ 🧠 Technical Concepts
+- Learned Git basics: initialization, staging, committing, and pushing changes.  
+- Created a Git repository and practiced branching to organize code.
 
 
-# 
 
-# 17 December 2025
+ 📅 18 December 2025
+ 🧠 Technical Concepts
+- **SDK:** Bundle of tools (CLI, libraries, runtime) for app development.  
+- **.NET Foundations:** Learned about CLR (Common Language Runtime) and BCL (Base Class Library).  
+- **Java vs C#:** Compared platform targets, runtime, and feature evolution (e.g., LINQ, async/await).  
+- **Compiler vs Interpreter:** Explored the difference in execution and performance approaches.
 
+ 💻 C# Problem Solving
+- Solved **10 logic problems** in C#.  
+- Practiced **5 LeetCode problems** and pushed solutions to GitHub.
 
 
 
+ 📅 19 December 2025
+ 🧠 Technical Concepts
+- Explored **C# Architecture**, **CLR**, and **Compilers in .NET**.  
+- Learned **C# Data Types:**  
+  - *Primitive:* `int`, `float`, `char`, `double`, `long`  
+  - *Non-primitive:* `String`, `Array`, `Object`  
+- Studied **static keyword**, **operators**, and **memory management (stack vs heap)** in detail.
 
-# 🧠 Technical Concepts
+ 💻 C# Problem Solving
+- Implemented type casting using the `is` operator.  
+- Completed **16 Level 1** and **12 Level 2** problems from *C# Programming Elements*.
 
 
 
-# ->Learned Git basics: initialization, staging, committing, and pushing changes.
+ 📅 20 December 2025
+ 🧠 Technical Concepts
+- **Access Modifiers in C#:** `private`, `public`, `internal`, `protected`, `private protected`, `protected internal`.  
+- **Memory Management:** Reviewed how values are stored in Stack and Heap.
 
-# ->Created a Git repository and worked with branches to organize practice code.
+ 💻 C# Problem Solving
+- Practiced questions on access modifiers.  
+- Pushed all solutions to GitHub.
 
-# 
 
 
+ 📅 22 December 2025
+ 🧠 Technical Concepts
+- **Control Flow in C#:** Learned about `if`, `else if`, `switch`.  
+- **Loops in C#:** Practiced `for`, `while`, `do-while`, and `for each`.
 
-
-
-# 18 December 2025
-
-# 🧠 Technical Concepts
-
-
-
-# SDK (Software Development Kit): Bundle of tools (CLI, libraries, runtime) required to build applications for a specific platform.
-
-# Foundations of .NET: Cross-platform framework consisting of the CLR (runtime) and BCL (Base Class Library) for core functionality.
-
-# Java vs C#: Both are object-oriented; Java targets the JVM, while C# targets the CLR and often receives language features faster (e.g., LINQ, async).
-
-# Compiler vs Interpreter: A compiler translates the whole program before execution (faster runtime), while an interpreter executes code line-by-line (simpler debugging).
-
-# 
-
-# 💻 C# Problem Solving
-
-
-
-# Solved 10 logic problems in C# and pushed the solutions to the repository.
-
-# Practiced 5 LeetCode problems.
-
-# 
-
-
-
-
-
-# 19 December 2025
-
-
-
-# 🧠 Technical Concepts
-
-
-
-# C# Architecture
-
-# CLR and Compilers in .NET
-
-
-
-# Data Types in C# :-
-
-
-
-# Primitive: int (4 bytes), float (4 bytes), char (16 bytes), double (8 bytes), long/int64 (8 bytes)
-
-# Non-primitive: Strings, Arrays, Objects
-
-
-
-# Static Keyword in C#
-
-
-
-# Operators in C#: Arithmetic, Assignment, Relational, is, Unary, Ternary, Logical, Bitwise
-
-
-
-# Memory in C#: Stack and Heap
-
-# Access Modifiers in C#
-
-# 
-
-# 💻 C# Problem Solving
-
-
-
-# Wrote code using the is operator and implemented Type Casting.
-
-
-
-# Solved 16 problems in Level 1 inside C# Programming Elements.
-
-
-
-# Solved 12 problems in Level 2 inside C# Programming Elements.
+ 💻 C# Problem Solving
+- Solved coding problems:  
+  - ✅ 18 in Level 1 problems  
+  - ✅ 12 in Level 2 problems  
+  - ✅ 6 in Level 3 problems  
+- Committed and pushed all solutions successfully.
 
