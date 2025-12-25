@@ -60,3 +60,10 @@
   - ✅ 6 in Level 3 problems  
 - Committed and pushed all solutions successfully.
 
+📅 Date: 23 December 2025 
+🧠 Technical Concepts 
+.>C# Arrays (intiallization of array,modification) 
+.>One-Dimensional Array 
+.>Two–Dimensional Array (2D-Array) 
+.>Environment.Exit() Method (This is use to terminate the current program)
+Solved Coding Problems
