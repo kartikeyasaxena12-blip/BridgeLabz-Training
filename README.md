@@ -3,6 +3,7 @@
 
  🗓️ Timeline & Learning Summary
 
+
  📅 17 December 2025
  🧠 Technical Concepts
 - Learned Git basics: initialization, staging, committing, and pushing changes.  
@@ -60,6 +61,8 @@
   - ✅ 6 in Level 3 problems  
 - Committed and pushed all solutions successfully.
 
+
+
 📅 Date: 23 December 2025 
 🧠 Technical Concepts 
 .>C# Arrays (intiallization of array,modification) 
@@ -67,3 +70,46 @@
 .>Two–Dimensional Array (2D-Array) 
 .>Environment.Exit() Method (This is use to terminate the current program)
 Solved Coding Problems
+
+
+
+📅 Date: 24 December 2025 
+🧠 Technical Concepts 
+.>1. User-Defined Methods 
+.>2 Using Methods Multiple Times 
+.>3 Making Methods More Dynamic 
+.>4. Recursive Methods 
+.>5. Static Methods in C# 
+.>6. .NET Standard Library Methods 
+.>7. System.Math Class in C#
+
+💻 C# Problem Solving .>solve coding problems
+
+
+
+📅 Date: 26 December 2025 
+🧠 Technical Concepts
+-> C# Strings, Create Strings, Use of "\" Escape Sequence,
+-> Take String Input,
+-> String Arrays,
+-> String as Method Parameters, 
+-> String Class Built-In Methods,
+-> ASCII Character Codes,
+-> C# Exceptions,
+-> C# Exception Hierarchy,
+-> C# Exception Types,
+-> System.Exception or Unchecked Exceptions,Checked Exceptions.
+
+💻 C# Problem Solving .>solve scenario based question Named Snake and Ladder .>solve coding problems
+
+
+
+📅 Date: 27 December 2025 (Holiday) 
+🧠 Technical Concepts revise concept about strings
+💻 C# Problem Solving .>solve coding problems on string.
+
+
+
+📅 Date: 28 December 2025 (Holiday) 
+🧠 Technical Concepts revise all previous concepts
+💻 C# Problem Solving .>solve 13 problems in extra-csharp-built-in
