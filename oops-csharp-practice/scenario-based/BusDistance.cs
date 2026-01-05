@@ -1,6 +1,8 @@
 using System;
+
 class BusDistance
 {
+
     // main function
     static void Main(string[] args)
     {
