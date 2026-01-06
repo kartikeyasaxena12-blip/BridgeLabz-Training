@@ -34,6 +34,13 @@ class Doctor
     }
 }
 
+
+interface IPayable
+{
+    double CalculateBill();
+}
+
+
 class Patient
 {
     private int patientId;
@@ -56,10 +63,6 @@ class Patient
 
 }
 
-interface IPayable
-{
-    double CalculateBill();
-}
 
 class InPatient : Patient, IPayable
 {
