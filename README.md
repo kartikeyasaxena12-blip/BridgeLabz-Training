@@ -329,3 +329,65 @@
 
 ---
 
+## 📅 10 January 2025
+
+### 🧠 Technical Concepts
+- Revision of OOPS concepts:
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+
+### 💻 C# Problem Solving
+- Practiced OOPS-based coding problems
+- Focused on improving design logic and code structure
+
+---
+
+## 📅 11 January 2025
+
+### 🧠 Technical Concepts
+- Revision of Core Java concepts (conceptual comparison)
+- Strengthened understanding of OOPS principles
+
+### 💻 C# Problem Solving
+- Implemented sorting algorithms:
+  - Bubble Sort
+  - Selection Sort
+  - Merge Sort
+
+---
+
+## 📅 12 January 2025
+
+### 🧠 Technical Concepts
+- String utilities:
+  - StringBuilder
+  - StringBuffer
+- Searching algorithms:
+  - Linear Search
+  - Binary Search
+
+### 💻 C# Problem Solving
+- Scenario-based problems:
+  - Metal Rod Cutting
+  - Furniture Manufacturing
+  - Loan Approval Automation
+
+---
+
+## 📅 13 January 2025
+
+### 🧠 Technical Concepts
+- Runtime Analysis
+- Big-O Notation
+- Time Complexity Analysis
+- Space Complexity Analysis
+- Best, Worst, and Average Case Complexity
+- Practical performance optimization guidelines in C#
+
+### 💻 C# Problem Solving
+- Scenario-based problems on:
+  - Linear Search
+  - Binary Search
+  - StringBuilder
